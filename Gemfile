@@ -3,7 +3,7 @@ source "http://rubygems.org"
 gemspec
 
 gem "rails", "~> 3.2.6"
-gem "omniauth", "~> 1.0.0"
+gem "omniauth", "~> 1.4.2"
 gem "omniauth-oauth2", "~> 1.0.0"
 gem "rdoc"
 
